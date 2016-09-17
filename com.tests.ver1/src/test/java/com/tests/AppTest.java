@@ -17,6 +17,7 @@ public class AppTest {
 	public void openBrowser(){
 		
 		System.out.println("Hi There how are you?");
+		System.out.println("I am fine and doing good");
 			
 	}
 
